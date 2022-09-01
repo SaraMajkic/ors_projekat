@@ -16,6 +16,7 @@ In some use-cases, such as changing password or adding a new user, an e-mail not
 ## Database scheme
 
 To create database for this project, use this file: <a href="ors1_opp_2021_2022.sql">ors1_opp_2021_2022</a>
+
 <img src="./photos/dbscheme.png" width="330" height="280">
 
 ## Screenshots
