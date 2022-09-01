@@ -26,11 +26,8 @@ public class JavaMail {
 		properties.put("mail.smtp.port", "587");
 		properties.put("mail.smtp.ssl.trust", "smtp.gmail.com"); //ovo sam dodala kasnije zbog..
 		
-		//String myAccountEmail = "sara.majkic1998@gmail.com";
-		//String password = "";
-		
-		String myAccountEmail = "sara.majkic@student.pmf.unibl.org";
-		String password = "98105027";
+		String myAccountEmail = "email";
+		String password = "password";
 		
 		
 		Session session = Session.getInstance(properties, new Authenticator() { 
