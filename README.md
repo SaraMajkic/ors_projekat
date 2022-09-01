@@ -4,7 +4,7 @@ This was my college project that contains most of the elements which are a part 
 
 When starting this program, log-in dialog pops up.
 
-<img src="./photos/Capture.jpg" width="230" height="280">
+<img src="./photos/Capture.JPG" width="230" height="280">
 
 
 There are two types of e-diary users: professors and students. Depending on the person logging in, different windows pop-up with different possibilities. 
@@ -20,7 +20,7 @@ To create database for this project, use this file: <a href="ors1_opp_2021_2022.
 
 ## Screenshots
 
-<img src="./photos/Capture2.jpg" width="230" height="280">
-<img src="./photos/Capture3.jpg" width="230" height="280">
-<img src="./photos/Capture4.jpg" width="230" height="280">
-<img src="./photos/Capture5.jpg" width="230" height="280">
+<img src="./photos/Capture2.JPG" width="230" height="280">
+<img src="./photos/Capture3.JPG" width="230" height="280">
+<img src="./photos/Capture4.JPG" width="230" height="280">
+<img src="./photos/Capture5.JPG" width="230" height="280">
