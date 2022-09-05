@@ -318,7 +318,7 @@ public class Main extends Application {
 		ispisRazreda.setPadding(new Insets(0, 0, 8, 0));
 		peti.getChildren().addAll(razred, ispisRazreda);
 		ImageView imageView = new ImageView();
-		Image image = new Image(new FileInputStream("D:\\schoolLogo.png"));
+		Image image = new Image(new FileInputStream("src\\schoolLogo.png"));
 		imageView.setImage(image);
 		imageView.setFitHeight(110); 
 	    imageView.setFitWidth(60); 
@@ -1128,7 +1128,7 @@ public class Main extends Application {
 			}
 		});
 		ImageView imageView2 = new ImageView();
-		Image image2 = new Image(new FileInputStream("D:\\ucenik.png"));
+		Image image2 = new Image(new FileInputStream(".\\ucenik.png"));
 		imageView2.setImage(image2);
 		imageView2.setFitHeight(190); 
 	    imageView2.setFitWidth(310); 
@@ -2519,7 +2519,7 @@ public class Main extends Application {
 		});
 		
 		ImageView imageView = new ImageView();
-		Image image = new Image(new FileInputStream("D:\\profesor.png"));
+		Image image = new Image(new FileInputStream("src\\profesor.png"));
 		imageView.setImage(image);
 		imageView.setFitHeight(350); 
 	    imageView.setFitWidth(190);   
